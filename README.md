@@ -15,7 +15,7 @@ The goal of this project is to use what you know about visualizations and probab
 * Columns "Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50": Missing values in the range of 1% to 2%.
   ** We replaced null values with mode of the column
 
-## Gneral data distributionn visulaization
+## General data distributionn visulaization
 ![Image](/images/overall_coupons_acceptance_proportion.png)
 <br>
 <br>
@@ -52,3 +52,32 @@ Based on data exploration and observations, we can hypothesize following about t
 * **Occupation Feature**: Drivers outside of farming, fishing and forestry are highly likey to accept bar coupons. This indicates people in other occupation have more lesiure time after the work.
 
 ## Independent Investigation - CoffeeHouse Coupon acceptance 
+
+Coffee house coupons are the most number of coupons distributed to drivers. Will explore CoffeeHouse coupon to understand the customer behavior.
+
+## General data distributionn visulaization
+![Image](/images/ch_overall_acceptance.png)
+<br>
+<br>
+![Image](/images/ch_drivers_comparision)
+<br>
+<br>
+![Image](/images/ch_by_weather.png.png)
+<br>
+<br>
+![Image](/images/ch_by_gender.png)
+<br>
+<br>
+![Image](/images/ch_by_age.png)
+<br>
+<br>
+![Image](/images/ch_by_education.png)
+<br>
+<br>
+![Image](/images/ch_by_income.png)
+<br>
+<br>
+![Image](/images/ch_by_marital_status.png)
+
+
+
