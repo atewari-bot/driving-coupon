@@ -59,10 +59,10 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 ![Image](/images/ch_overall_acceptance.png)
 <br>
 <br>
-![Image](/images/ch_drivers_comparision)
+![Image](/images/ch_drivers_comparision.png)
 <br>
 <br>
-![Image](/images/ch_by_weather.png.png)
+![Image](/images/ch_by_weather.png)
 <br>
 <br>
 ![Image](/images/ch_by_gender.png)
