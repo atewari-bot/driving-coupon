@@ -10,7 +10,14 @@ The goal of this project is to use what you know about visualizations and probab
 
 ### Missing data handling
 
-## Overall data visulaization
+## Gneral data distributionn visulaization
+![Image](/images/overall_coupons_acceptance_proportion.png)
+<br>
+<br>
+![Image](/images/coupons_types_distribution.png)
+<br>
+<br>
+![Image](/images/temperature_histogram.png)
 
 ## EDA Summary
 
