@@ -22,7 +22,7 @@ The goal of this project is to use what you know about visualizations and probab
 ![Image](/images/coupons_acceptance_proportion.png)
 <br>
 <br>
-![Image](/images/coupons_types_distribution.png)
+![Image](/images/coupon_types_distribution.png)
 <br>
 <br>
 ![Image](/images/temperature_histogram.png)
