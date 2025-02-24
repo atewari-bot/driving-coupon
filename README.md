@@ -10,9 +10,9 @@ The goal of this project is to use what you know about visualizations and probab
 
 ### Missing data handling
 
-* Column"car": More than 99% of values are missing.
+* <b><i>car</i></b> column: More than 99% of values are missing.
   ** Car column have more than 99% of values missing. The type of vehicle should not affect coupon acceptance. We could drop the car column or fill it with a value 'car'. I would drop the column as this column is agnostic of coupon acceptance with 99% missing values. 
-* Columns "Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50": Missing values in the range of 1% to 2%.
+* <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b> columns: Missing values in the range of 1% to 2%.
   ** We replaced null values with mode of the column
 
 ## General data distributionn visulaization
@@ -57,12 +57,24 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 
 ## General data distributionn visulaization
 ![Image](/images/ch_overall_acceptance.png)
+
+**Overall Acceptance:** Overall 49.2% drivers accepted Coffee House coupon. This indicates there is a significant liklihood and opportunity to attract more customers by designing coupons based on deeper understanding of customer behavior and colloborating with businesses.
 <br>
 <br>
 ![Image](/images/ch_drivers_comparision.png)
+
+**Different Segments Comparision:** In general, customers are inclined to accept more coffee house coupons on a sunny day.
 <br>
 <br>
 ![Image](/images/coffee_house_subplots.png)
+
+**Segment-wise Acceptance Trend:**
+* Sunny weather is most preferred day for accepting coffe house coupons
+* Female drivers tend to accept more coupons than male drivers.
+* Age range 21-26 tend to accept more coupons as compared to other age groups.
+* Drivers with bachelors degree or no degree are equally likly to accept coupons as compared to other education background drivers.
+* Income range $25k to $37.5k tend to accept more coupons as comapred to other income groups.
+* Married partner tend to accept more coupons followed by singles.
 <br>
 <br>
 
