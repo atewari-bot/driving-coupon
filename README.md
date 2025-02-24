@@ -15,7 +15,7 @@ The goal of this project is to use what you know about visualizations and probab
 * <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b> columns: Missing values in the range of 1% to 2%.
   ** We replaced null values with mode of the column
 
-## Fix column name
+### Fix column name
 * <b><i>passanger</i><b> column: Fixed typo of column name to correct spelling <i>passenger</i>
 
 ## General data distributionn visulaization
