@@ -70,15 +70,20 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 
 Based on analysis of customer behavior to accept for Bar and Coffee House coupons acceptance, I would recommend below next steps to further help understand the dataset and customer behavior.
 
-### **A/B Test:** Perform A/B test with various coupon offers like bigger doiscounts on a rainy or snowy day or increasing younger customer reach out for Bar coupons.
+### **A/B Test:** 
+Perform A/B test with various coupon offers like bigger doiscounts on a rainy or snowy day or increasing younger customer reach out for Bar coupons.
 
-### **Segments Trend Analysis:** Perform deeper segments (weather, age, gender, income etc) analysis and impact of one or more segments over other to fin tune coupons design and distribution strategy.
+### **Segments Trend Analysis:** 
+Perform deeper segments (weather, age, gender, income etc) analysis and impact of one or more segments over other to fin tune coupons design and distribution strategy.
 
-### **Feedback Loop:** Collect feedback from drivers via a well defined feedback loop to collect more data based on customer behavior and hence develop better insight into understanding the customers and coupons acceptance.
+### **Feedback Loop:** 
+Collect feedback from drivers via a well defined feedback loop to collect more data based on customer behavior and hence develop better insight into understanding the customers and coupons acceptance.
 
-### **Businesss Colloboration:** Colloborate with businesses to design attractive coupons based on data collected and inferences from customer segmentation analysis.
+### **Businesss Colloboration:** 
+Colloborate with businesses to design attractive coupons based on data collected and inferences from customer segmentation analysis.
 
-### **ROI Reporting:** Develop tools to generate ROI reports which would be another input for our model to help design coupons based on demand or other customer behavior cues.
+### **ROI Reporting:** 
+Develop tools to generate ROI reports which would be another input for our model to help design coupons based on demand or other customer behavior cues.
 
 
 
