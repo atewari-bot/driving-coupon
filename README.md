@@ -16,7 +16,7 @@ The goal of this project is to use what you know about visualizations and probab
   ** We replaced null values with mode of the column
 
 ## General data distributionn visulaization
-![Image](/images/overall_coupons_acceptance_proportion.png)
+![Image](/images/coupons_acceptance_proportion.png)
 <br>
 <br>
 ![Image](/images/coupons_types_distribution.png)
@@ -62,22 +62,10 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 ![Image](/images/ch_drivers_comparision.png)
 <br>
 <br>
-![Image](/images/ch_by_weather.png)
+![Image](/images/coffee_house_subplots.png)
 <br>
 <br>
-![Image](/images/ch_by_gender.png)
-<br>
-<br>
-![Image](/images/ch_by_age.png)
-<br>
-<br>
-![Image](/images/ch_by_education.png)
-<br>
-<br>
-![Image](/images/ch_by_income.png)
-<br>
-<br>
-![Image](/images/ch_by_marital_status.png)
+
 
 
 
