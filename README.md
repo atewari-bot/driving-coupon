@@ -10,10 +10,12 @@ The goal of this project is to use what you know about visualizations and probab
 
 ### Missing data handling
 
-* <b><i>car</i></b> column: More than 99% of values are missing.
-  ** Car column have more than 99% of values missing. The type of vehicle should not affect coupon acceptance. We could drop the car column or fill it with a value 'car'. I would drop the column as this column is agnostic of coupon acceptance with 99% missing values. 
-* <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b> columns: Missing values in the range of 1% to 2%.
-  ** We replaced null values with mode of the column
+* <b><i>car</i></b> column:
+  * More than 99% of values are missing.
+  * Car column have more than 99% of values missing. The type of vehicle should not affect coupon acceptance. We could drop the car column or fill it with a value 'car'. I would drop the column as this column is agnostic of coupon acceptance with 99% missing values. 
+* <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b> columns:
+  * Missing values in the range of 1% to 2%.
+  * We replaced null values with mode of the column.
 
 ### Fix column name
 * <b><i>passanger</i><b> column: Fixed typo of column name to correct spelling <i>passenger</i>
