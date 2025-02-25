@@ -116,12 +116,14 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 ## General data distributionn visulaization
 ![Image](/images/ch_overall_acceptance.png)
 
-**Overall Acceptance:** Overall 49.92% drivers accepted Coffee House coupon. This indicates there is a significant liklihood and opportunity to attract more customers by designing coupons based on deeper understanding of customer behavior and colloborating with businesses.
+**Overall Acceptance:** 
+* Overall 49.92% drivers accepted Coffee House coupon. This indicates there is a significant liklihood and opportunity to attract more customers by designing coupons based on deeper understanding of customer behavior and colloborating with businesses.
 <br>
 <br>
 ![Image](/images/ch_drivers_comparision.png)
 
-**Different Segments Comparision:** In general, customers who visits coffe house more than once a month are inclined to accept coffee house coupons on a sunny day with an acceptance rate of 63.02 %.
+**Different Segments Comparision:** 
+* In general, customers who visits coffe house more than once a month are inclined to accept coffee house coupons on a sunny day with an acceptance rate of 63.02 %.
 <br>
 <br>
 ![Image](/images/coffee_house_subplots.png)
