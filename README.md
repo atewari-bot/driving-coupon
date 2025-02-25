@@ -11,7 +11,6 @@ The goal of this project is to use what you know about visualizations and probab
 ### Missing data handling
 
 * <b><i>car</i></b> column:
-  * More than 99% of values are missing.
   * Car column have more than 99% of values missing. The type of vehicle should not affect coupon acceptance. We could drop the car column or fill it with a value 'car'. I would drop the column as this column is agnostic of coupon acceptance with 99% missing values. 
 * <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b> columns:
   * Missing values in the range of 1% to 2%.
@@ -70,9 +69,11 @@ The goal of this project is to use what you know about visualizations and probab
 </table>
          
 **Key Takeaways:** 
-* Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50).
+* Most number of coupons distribution was for Coffee House and least was for expensive restaurents (Cost $20-$50 per person).
 * Carry out & Take away has highest percentage of coupon acceptance.
-* Bar coupons have the lowest percentage of coupon accentance.
+* Bar coupons have the lowest percentage of coupon acceptance.
+* Most number of coupons were accepted for Coffee house and Carry out & Take away coupon category.
+* Expensive restaurents coupons acceptance count was the least.
 
 ### Coupon acceptance by Weather
 ![Image](/images/temperature_histogram.png)
