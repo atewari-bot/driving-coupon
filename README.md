@@ -19,12 +19,15 @@ The goal of this project is to use what you know about visualizations and probab
 * <b><i>passanger</i><b> column: Fixed typo of column name to correct spelling <i>passenger</i>
 
 ## General data distribution visualization
+
+### Overall Coupon Accenptance Porportion 
 ![Image](/images/coupons_acceptance_proportion.png)
 
-**Description:** Overall coupons acceptance is at 56.84 %.
- 
-<br>
-<br>
+**Key Takeaways:** 
+* Overall coupons acceptance is at 56.84 %.
+
+
+### Overall Coupon Type Acceptance Porportion
 ![Image](/images/coupons_types_distribution.png)
 
 <table>
@@ -40,7 +43,7 @@ The goal of this project is to use what you know about visualizations and probab
         <td>41.00</td>
     <tr>
         <td>Carry out & Take away</td>
-        <td><2393/td>
+        <td>2393</td>
         <td>1760</td>
         <td>73.55</td>
     </tr>
@@ -57,19 +60,24 @@ The goal of this project is to use what you know about visualizations and probab
         <td>44.10</td>
     </tr>
     <tr>
-        <td>Restaurant(<20)</td>
+        <td>Restaurant(&lt;20)</td>
         <td>2786</td>
         <td>1970</td>
         <td>70.71</td>
     </tr>
 </table>
-**Description:** Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50)
+         
+**Key Takeaways:** 
+* Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50).
+* Carry out & Take away has highest percentage of coupon acceptance.
+* Bar coupons have the lowest percentage of coupon accentance.
 
-<br>
-<br>
+
+### Coupon acceptance by Weather
 ![Image](/images/temperature_histogram.png)
 
-**Description:** Sunny day has most number of coupons acceptance
+**Key Takeaways:** 
+* Sunny day has most number of coupons acceptance
 
 
 ## EDA Summary
