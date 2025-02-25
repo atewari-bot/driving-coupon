@@ -35,7 +35,7 @@ The goal of this project is to use what you know about visualizations and probab
         <th>Coupon Type</th>
         <th>Total Coupon Count</th>
         <th>Accepted Coupon Count</th>
-        <th>Acceptance Proportion</th>
+        <th>Acceptance Proportion (%)</th>
     </tr>
         <td>Bar</td>
         <td>2017</td>
@@ -125,7 +125,7 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 ![Image](/images/coffee_house_subplots.png)
 
 **Segment-wise Acceptance Trend:**
-* Sunny weather is most preferred day for accepting coffe house coupons
+* Sunny weather is most preferred day for accepting coffee house coupons
 * Female drivers tend to accept more coupons than male drivers.
 * Age range 21-26 tend to accept more coupons as compared to other age groups.
 * Drivers with bachelors degree or no degree are equally likly to accept coupons as compared to other education background drivers.
