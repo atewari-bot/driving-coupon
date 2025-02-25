@@ -4,7 +4,7 @@ The goal of this project is to use what you know about visualizations and probab
 
 [Link to Coupons Dataset](https://github.com/atewari-bot/driving-coupon/blob/main/data/coupons.csv)
 
-[Link to Jupyter Notebook](https://github.com/atewari-bot/driving-coupon/blob/main/prompt.ipynb)
+[Link to Jupyter Notebook](https://github.com/atewari-bot/driving-coupon/blob/main/driving-coupon-eda.ipynb)
 
 ## Exploratory Data Analysis (EDA)
 
@@ -74,7 +74,6 @@ The goal of this project is to use what you know about visualizations and probab
 * Carry out & Take away has highest percentage of coupon acceptance.
 * Bar coupons have the lowest percentage of coupon accentance.
 
-
 ### Coupon acceptance by Weather
 ![Image](/images/temperature_histogram.png)
 
@@ -83,9 +82,10 @@ The goal of this project is to use what you know about visualizations and probab
 
 **Segments-wise Acceptance Comparision:** 
 * In general, customers who visits bar more than once a month are inclined to accept bar coupons on a sunny day with an acceptance rate of 66.17 % and male drivers tend to accept more bar coupons.
-<br>
-<br>
+
 ![Image](/images/bar_subplots.png)
+<br>
+<br>
 
 **Segment-wise Acceptance Trend:**
 * Sunny weather is most preferred day for accepting coffee house coupons with acceptance rate of 66.17% compared to other weather conditions.
