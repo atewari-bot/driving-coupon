@@ -114,23 +114,23 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 ## General data distributionn visulaization
 ![Image](/images/ch_overall_acceptance.png)
 
-**Overall Acceptance:** Overall 49.2% drivers accepted Coffee House coupon. This indicates there is a significant liklihood and opportunity to attract more customers by designing coupons based on deeper understanding of customer behavior and colloborating with businesses.
+**Overall Acceptance:** Overall 49.92% drivers accepted Coffee House coupon. This indicates there is a significant liklihood and opportunity to attract more customers by designing coupons based on deeper understanding of customer behavior and colloborating with businesses.
 <br>
 <br>
 ![Image](/images/ch_drivers_comparision.png)
 
-**Different Segments Comparision:** In general, customers are inclined to accept more coffee house coupons on a sunny day.
+**Different Segments Comparision:** In general, customers who visits coffe house more than once a month are inclined to accept coffee house coupons on a sunny day with an acceptance rate of 63.02 %.
 <br>
 <br>
 ![Image](/images/coffee_house_subplots.png)
 
 **Segment-wise Acceptance Trend:**
-* Sunny weather is most preferred day for accepting coffee house coupons
-* Female drivers tend to accept more coupons than male drivers.
+* Sunny weather is most preferred day for accepting coffee house coupons with acceptance rate of 87.26% compared to other weather conditions.
+* Female drivers tend to accept more coupons than male drivers with an acceptance rate of 52.91%.
 * Age range 21-26 tend to accept more coupons as compared to other age groups.
 * Drivers with bachelors degree or no degree are equally likly to accept coupons as compared to other education background drivers.
 * Income range $25k to $37.5k tend to accept more coupons as comapred to other income groups.
-* Married partner tend to accept more coupons followed by singles.
+* Married partner and single are equally likely to accept more coupons compared to drivers with other marital status.
 <br>
 <br>
 
