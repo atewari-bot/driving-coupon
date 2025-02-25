@@ -18,20 +18,58 @@ The goal of this project is to use what you know about visualizations and probab
 ### Fix column name
 * <b><i>passanger</i><b> column: Fixed typo of column name to correct spelling <i>passenger</i>
 
-## General data distribution visualization.
+## General data distribution visualization
 ![Image](/images/coupons_acceptance_proportion.png)
 
 **Description:** Overall coupons acceptance is at 56.84 %.
+ 
 <br>
 <br>
 ![Image](/images/coupons_types_distribution.png)
 
-**Description:** Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50).
+<table>
+    <tr>
+        <th>Coupon Type</th>
+        <th>Total Coupon Count</th>
+        <th>Accepted Coupon Count</th>
+        <th>Acceptance Proportion</th>
+    </tr>
+        <td>Bar</td>
+        <td>2017</td>
+        <td>827</td>
+        <td>41.00</td>
+    <tr>
+        <td>Carry out & Take away</td>
+        <td><2393/td>
+        <td>1760</td>
+        <td>73.55</td>
+    </tr>
+    <tr>
+        <td>Coffee House</td>
+        <td>3996</td>
+        <td>1995</td>
+        <td>49.92</td>
+    </tr>
+    <tr>
+        <td>Restaurant(20-50)</td>
+        <td>1492</td>
+        <td>658</td>
+        <td>44.10</td>
+    </tr>
+    <tr>
+        <td>Restaurant(<20)</td>
+        <td>2786</td>
+        <td>1970</td>
+        <td>70.71</td>
+    </tr>
+</table>
+**Description:** Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50)
+
 <br>
 <br>
 ![Image](/images/temperature_histogram.png)
 
-**Description:** Sunny day has most number of coupons distribution.
+**Description:** Sunny day has most number of coupons acceptance
 
 
 ## EDA Summary
