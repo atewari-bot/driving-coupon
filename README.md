@@ -18,22 +18,20 @@ The goal of this project is to use what you know about visualizations and probab
 ### Fix column name
 * <b><i>passanger</i><b> column: Fixed typo of column name to correct spelling <i>passenger</i>
 
-## General data distribution visualization
+## General data distribution visualization.
 ![Image](/images/coupons_acceptance_proportion.png)
 
 **Description:** Overall coupons acceptance is at 56.84 %.
- 
 <br>
 <br>
 ![Image](/images/coupons_types_distribution.png)
 
-**Description:** Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50)
-
+**Description:** Most number of coupons distribution was for Coffee House and least number was for Restaurant(20-50).
 <br>
 <br>
 ![Image](/images/temperature_histogram.png)
 
-**Description:** Sunny day has most number of coupons acceptance
+**Description:** Sunny day has most number of coupons distribution.
 
 
 ## EDA Summary
