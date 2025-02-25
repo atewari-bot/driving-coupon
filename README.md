@@ -88,7 +88,7 @@ The goal of this project is to use what you know about visualizations and probab
 <br>
 
 **Segment-wise Acceptance Trend:**
-* Sunny weather is most preferred day for accepting coffee house coupons with acceptance rate of 66.17% compared to other weather conditions.
+* Sunny weather is most preferred day for accepting bar coupons with acceptance rate of 66.17% compared to other weather conditions.
 * Male drivers tend to accept more coupons than female drivers with an acceptance rate of 60.74%.
 * Age range 21-30 tend to accept more bar coupons as compared to other age groups.
 * Drivers with bachelors degree or no degree are equally likly to accept bar coupons as compared to other education background drivers.
