@@ -89,15 +89,15 @@ The goal of this project is to use what you know about visualizations and probab
 <br>
 
 **Segment-wise Acceptance Trend:**
-* Sunny weather is most preferred day for accepting bar coupons with acceptance rate of 66.17% compared to other weather conditions.
-* Male drivers tend to accept more coupons than female drivers with an acceptance rate of 60.74%.
-* Age range 21-30 tend to accept more bar coupons as compared to other age groups.
-* Drivers with bachelors degree or no degree are equally likly to accept bar coupons as compared to other education background drivers.
-* Income range $25k to $37.5k tend to accept more coupons as comapred to other income groups.
-* Married partner highly likely to accept bar coupons compared to drivers with other marital status.
-* Drivers whose destination is not an urgent place are highly likely to accept bar coupons.
-* Alone drivers are highly likely to accept bar coupons.
-* Bar coupons are highly likely to be accepted in the evening.
+* Acceptance rate is highly likely on a sunny weather condition, with acceptance rate of 66.17% compared to other weather conditions.
+* Male drivers tend to accept more bar coupons compared to female drivers with an acceptance rate of 60.74%.
+* Age range of 21-30 tend to accept more bar coupons as compared to other age groups.
+* Drivers with no degree are highly likly to accept bar coupons as compared to other education background drivers.
+* Income range of $25k to $37.5k and $100k+ are highly likely to accept bar coupons as comapred to other income groups.
+* Single drivers are highly likely to accept bar coupons compared to drivers with other marital status.
+* Drivers whose destination is not an urgent place are highly likely to accept bar coupons compared to people driving to home or work.
+* Bar coupons acceptance is significantly highly by alone drivers compared to drivers with passengers.
+* Bar coupons are highly likely to be accepted in the evening around 6 PM.
 * Bar coupons with 1 day expiry are highly likely to be accepted compared to few hours of expiry.
 
 
@@ -147,15 +147,15 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 
 **Segment-wise Acceptance Trend:**
 * Sunny weather is most preferred day for accepting coffee house coupons with acceptance rate of 87.26% compared to other weather conditions.
-* Female drivers tend to accept more coupons than male drivers with an acceptance rate of 52.91%.
-* Age range 21-26 tend to accept more coupons as compared to other age groups.
-* Drivers with bachelors degree or no degree are equally likly to accept coupons as compared to other education background drivers.
-* Income range $25k to $37.5k tend to accept more coupons as comapred to other income groups.
-* Married partner and single are equally likely to accept more coupons compared to drivers with other marital status.
-* Drivers whose destination is not an urgent place are highly likely to accept coffee house coupons.
-* Alone drivers are highly likely to accept coffee house coupons.
-* Coffee house coupons are highly likely to be accepted in the evening.
-* Coffee house coupons with 2 hours expiry are highly likely to be accepted compared to longer expiry duration.
+* Female drivers are highly likely to accept coffee house coupons than male drivers with an acceptance rate of 52.91%.
+* Age range of 21-26 tend to accept coffee house coupons at higher rate as compared to other age groups.
+* Drivers with no degree are highly likly to accept compared to other education background drivers.
+* Income range of $12.5k to $25k tend to accept coupons at a higher rate as comapred to other income groups.
+* Single drivers are highly likely to accept coffee house coupons compared to drivers with other marital status.
+* Drivers whose destination is not an urgent place are significantly likely to accept coffee house coupons.
+* Alone drivers are highly likely to accept coffee house coupons compared to drivers accompanied by passengers.
+* Coffee house coupons are highly likely to be accepted in the morning around 10:00 AM.
+* Coffee house coupons with 1 day expiry are likely to be accepted compared to 2 hour expiry duration.
 
 ## Recommendations
 
