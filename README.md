@@ -154,7 +154,7 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 * Married partner and single are equally likely to accept more coupons compared to drivers with other marital status.
 * Drivers whose destination is not an urgent place are highly likely to accept coffee house coupons.
 * Alone drivers are highly likely to accept coffee house coupons.
-* Coffe house coupons are highly likely to be accepted in the evening.
+* Coffee house coupons are highly likely to be accepted in the evening.
 * Coffee house coupons with 2 hours expiry are highly likely to be accepted compared to longer expiry duration.
 
 ## Recommendations
