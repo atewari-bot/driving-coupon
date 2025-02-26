@@ -95,6 +95,8 @@ The goal of this project is to use what you know about visualizations and probab
 * Drivers with bachelors degree or no degree are equally likly to accept bar coupons as compared to other education background drivers.
 * Income range $25k to $37.5k tend to accept more coupons as comapred to other income groups.
 * Married partner highly likely to accept bar coupons compared to drivers with other marital status.
+* Drivers whose destination is not an urgent place are highly likely to accept bar coupons.
+* Alone drivers are highly likely to accept bar coupons.
 
 
 ## EDA Summary
@@ -148,6 +150,8 @@ Coffee house coupons are the most number of coupons distributed to drivers. Will
 * Drivers with bachelors degree or no degree are equally likly to accept coupons as compared to other education background drivers.
 * Income range $25k to $37.5k tend to accept more coupons as comapred to other income groups.
 * Married partner and single are equally likely to accept more coupons compared to drivers with other marital status.
+* Drivers whose destination is not an urgent place are highly likely to accept coffee house coupons.
+* Alone drivers are highly likely to accept coffee house coupons.
 <br>
 <br>
 
