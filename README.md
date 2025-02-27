@@ -8,27 +8,28 @@ The goal of this project is to use what you know about visualizations and probab
 
 ## Exploratory Data Analysis (EDA)
 
-### Missing data handling
+### Missing Data Handling
 
-* <b><i>car</i></b> column:
-  * Car column have more than 99% of values missing. The type of vehicle should not affect coupon acceptance. We could drop the car column or fill it with a value 'car'. I would drop the column as this column is agnostic of coupon acceptance with 99% missing values. 
-* <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b> columns:
+* Column <b><i>Car</i></b>:
+  * Car column have more than 99% of values missing. The type of vehicle should not affect coupon acceptance. We could drop the car column or fill it with a value 'car'. I        would drop the column as this column is agnostic of coupon acceptance with 99% missing values. 
+* Columns <b><i>Bar, CoffeeHouse, CarryAway, RestaurantLessThan20, Restaurant20To50</i></b>:
   * Missing values in the range of 1% to 2%.
   * We replaced null values with mode of the column.
 
-### Fix column name
-* <b><i>passanger</i><b> column: Fixed typo of column name to correct spelling <i>passenger</i>
+### Fix Column Name
+* Column <b><i>passanger</i><b>:
+  * Renamed column <i>pass<b>a</b>nger</i> to <i>pass<b>e</b>nger</i>
 
 ## General data distribution visualization
 
-### Overall Coupon Accenptance Porportion 
+### Overall Coupon Acceptance Proportion 
 ![Image](/images/coupons_acceptance_proportion.png)
 
 **Key Takeaways:** 
 * Overall coupons acceptance is at 56.84 %.
 
 
-### Overall Coupon Type Acceptance Porportion
+### Overall Coupon Type Acceptance Proportion
 ![Image](/images/coupons_types_distribution.png)
 
 <table>
